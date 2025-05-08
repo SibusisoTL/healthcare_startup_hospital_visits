@@ -15,7 +15,11 @@ SOURCE:
 YOUR REPORT SHOULD FOCUS ON THE FOLLOWING:
 
 • Data Preprocessing and Cleanup
+
 • Exploratory Data Analysis and Insights
+
 • Feature Selection and Justification
+
 • Model Development and Selection
+
 • Model Evaluation and Testing
